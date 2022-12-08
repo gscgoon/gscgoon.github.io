@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>且说西游第一回</title>
+    <url>/2021/11/23/%E4%B8%94%E8%AF%B4%E8%A5%BF%E6%B8%B8/</url>
+    <content><![CDATA[<p>突然蹦的一声，一个石头中崩裂出一个毛脸雷公（日后被菩提老祖取名悟空），他的到来给在座的每一位的童年带来了回味无穷的记忆…</p>
+<p>预知后事如何，且听下回娓娓道来</p>
+<span id="more"></span>
+
+<p>欢迎您的观看，文章更行中，请耐心等待</p>
+]]></content>
+      <categories>
+        <category>文章</category>
+      </categories>
+      <tags>
+        <tag>西游</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数据结构之二叉树</title>
+    <url>/2021/12/14/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B9%8B%E4%BA%8C%E5%8F%89%E6%A0%91/</url>
+    <content><![CDATA[<p>数据结构是新生代农民工急需掌握的一门技术，了解并灵活运用便可给你带来财富，下面介绍的数据结构为–二叉树</p>
+<span id="more"></span>
+
+<p><strong>首先是二叉树的概念：</strong></p>
+<p>每个节点最多只能有两个子节点(左节点，右节点)的树称之为二叉树</p>
+<p><strong>其次是二叉树的分类：</strong></p>
+<p>满二叉树：二叉树所有叶子节点(没有子节点)都在最后一层，并且节点总数=2^n -1，n为树的层数</p>
+<p>完全二叉树：二叉树所有叶子节点都在最后一层/倒数第二层，并且最后一层叶子节点在左边连续，倒数第二层叶子节点在右边连续</p>
+<p><strong>最后是二叉树的遍历：</strong></p>
+<p>前序遍历：先父节点，再左子树，最后右子树</p>
+<p>中序遍历：先左子树，再父节点，最后右子树</p>
+<p>后序遍历：先左子树，再右子树，最后父节点</p>
+<p>小结：由此看出，父节点的遍历位置代表着遍历方法</p>
+]]></content>
+      <categories>
+        <category>数据结构</category>
+      </categories>
+      <tags>
+        <tag>二叉树</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>docker常用命令</title>
     <url>/2021/12/11/docker%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
     <content><![CDATA[<p>docker是一项新生代农民工必须掌握的技术，故在此记录关于docker常用的一些命令，以备日常查找时使用</p>
@@ -41,45 +81,5 @@
       <categories>
         <category>hello</category>
       </categories>
-  </entry>
-  <entry>
-    <title>且说西游第一回</title>
-    <url>/2021/11/23/%E4%B8%94%E8%AF%B4%E8%A5%BF%E6%B8%B8/</url>
-    <content><![CDATA[<p>突然蹦的一声，一个石头中崩裂出一个毛脸雷公（日后被菩提老祖取名悟空），他的到来给在座的每一位的童年带来了回味无穷的记忆…</p>
-<p>预知后事如何，且听下回娓娓道来</p>
-<span id="more"></span>
-
-<p>欢迎您的观看，文章更行中，请耐心等待</p>
-]]></content>
-      <categories>
-        <category>文章</category>
-      </categories>
-      <tags>
-        <tag>西游</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数据结构之二叉树</title>
-    <url>/2021/12/14/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B9%8B%E4%BA%8C%E5%8F%89%E6%A0%91/</url>
-    <content><![CDATA[<p>数据结构是新生代农民工急需掌握的一门技术，了解并灵活运用便可给你带来财富，下面介绍的数据结构为–二叉树</p>
-<span id="more"></span>
-
-<p><strong>首先是二叉树的概念：</strong></p>
-<p>每个节点最多只能有两个子节点(左节点，右节点)的树称之为二叉树</p>
-<p><strong>其次是二叉树的分类：</strong></p>
-<p>满二叉树：二叉树所有叶子节点(没有子节点)都在最后一层，并且节点总数=2^n -1，n为树的层数</p>
-<p>完全二叉树：二叉树所有叶子节点都在最后一层/倒数第二层，并且最后一层叶子节点在左边连续，倒数第二层叶子节点在右边连续</p>
-<p><strong>最后是二叉树的遍历：</strong></p>
-<p>前序遍历：先父节点，再左子树，最后右子树</p>
-<p>中序遍历：先左子树，再父节点，最后右子树</p>
-<p>后序遍历：先左子树，再右子树，最后父节点</p>
-<p>小结：由此看出，父节点的遍历位置代表着遍历方法</p>
-]]></content>
-      <categories>
-        <category>数据结构</category>
-      </categories>
-      <tags>
-        <tag>二叉树</tag>
-      </tags>
   </entry>
 </search>
