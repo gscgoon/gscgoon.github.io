@@ -1,32 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>且说西游第一回</title>
-    <url>/2021/11/23/%E4%B8%94%E8%AF%B4%E8%A5%BF%E6%B8%B8/</url>
-    <content><![CDATA[<p>突然蹦的一声，一个石头中崩裂出一个毛脸雷公（日后被菩提老祖取名悟空），他的到来给在座的每一位的童年带来了回味无穷的记忆…</p>
-<p>预知后事如何，且听下回娓娓道来</p>
-<span id="more"></span>
-
-<p>欢迎您的观看，文章更行中，请耐心等待</p>
-]]></content>
+    <title>MySQL相关知识-01</title>
+    <url>/2024/07/27/MySQL%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86-01/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="dc0484eb65bafab9facddc712273dc484efefb7846e446391aca13c4efb58d0b">ee096cc3e2ae9122439424ae5f81fd56fa6368c3be86cea8932f3093a76e8f01d459921bdc2a2d3b700627812636aa6f9e35fa77609ed071c5764a04233810b28f002f1c8011e8b771b94fe0546dacae1b8b6b231926707875fd42a32a93d097</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-surge">
+      <input class="hbe hbe-input-field hbe-input-field-surge" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-surge" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-surge" data-content="Hey, password is required here.">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-surge" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M1200,9c0,0-305.005,0-401.001,0C733,9,675.327,4.969,598,4.969C514.994,4.969,449.336,9,400.333,9C299.666,9,0,9,0,9v43c0,0,299.666,0,400.333,0c49.002,0,114.66,3.484,197.667,3.484c77.327,0,135-3.484,200.999-3.484C894.995,52,1200,52,1200,52V9z"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>文章</category>
+        <category>MySQL</category>
       </categories>
       <tags>
-        <tag>西游</tag>
+        <tag>MySQL</tag>
       </tags>
   </entry>
   <entry>
-    <title>知乎的一个关于使用Hexo+Butterfly搭建个人博客的宝藏总结</title>
-    <url>/2024/07/25/%E7%9F%A5%E4%B9%8E%E7%9A%84%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E4%BD%BF%E7%94%A8Hexo-Butterfly%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%9D%E8%97%8F%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<p>参考链接</p>
-<p><a href="https://www.zhihu.com/question/484633431/answer/3539808024">https://www.zhihu.com/question/484633431/answer/3539808024</a></p>
-]]></content>
+    <title>MySQL主从复制</title>
+    <url>/2024/07/28/MySQL%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6/</url>
+    <content><![CDATA[]]></content>
       <categories>
-        <category>借鉴</category>
+        <category>MySQL</category>
       </categories>
       <tags>
-        <tag>BLog搭建</tag>
+        <tag>MySQL</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>MySQL相关知识-02</title>
+    <url>/2024/07/30/MySQL%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86-02/</url>
+    <content><![CDATA[<p>MySQL的索引相关知识</p>
+<p>普通索引</p>
+<p>主键索引</p>
+<p>唯一索引</p>
+]]></content>
+      <categories>
+        <category>MySQL</category>
+      </categories>
+      <tags>
+        <tag>MySQL</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>MySQL相关知识-02</title>
+    <url>/2024/07/30/MySQL%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86-04/</url>
+    <content><![CDATA[<p>MySQL的索引相关知识</p>
+<p>普通索引</p>
+<p>主键索引</p>
+<p>唯一索引</p>
+]]></content>
+      <categories>
+        <category>MySQL</category>
+      </categories>
+      <tags>
+        <tag>MySQL</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>MySQL相关知识-02</title>
+    <url>/2024/07/30/MySQL%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86-05/</url>
+    <content><![CDATA[<p>MySQL的索引相关知识</p>
+<p>普通索引</p>
+<p>主键索引</p>
+<p>唯一索引</p>
+]]></content>
+      <categories>
+        <category>MySQL</category>
+      </categories>
+      <tags>
+        <tag>MySQL</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>MySQL相关知识-02</title>
+    <url>/2024/07/30/MySQL%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86-03/</url>
+    <content><![CDATA[<p>MySQL的索引相关知识</p>
+<p>普通索引</p>
+<p>主键索引</p>
+<p>唯一索引</p>
+]]></content>
+      <categories>
+        <category>MySQL</category>
+      </categories>
+      <tags>
+        <tag>MySQL</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>MySQL相关知识-02</title>
+    <url>/2024/07/30/MySQL%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86-06/</url>
+    <content><![CDATA[<p>MySQL的索引相关知识</p>
+<p>普通索引</p>
+<p>主键索引</p>
+<p>唯一索引</p>
+]]></content>
+      <categories>
+        <category>MySQL</category>
+      </categories>
+      <tags>
+        <tag>MySQL</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>SpringBoot相关知识点01</title>
+    <url>/2024/07/28/SpringBoot%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E7%82%B901/</url>
+    <content><![CDATA[<p>SpringBoot的相关知识的学习记录</p>
+<span id="more"></span>
+
+
+
+<p>SpringBoot的相关知识的学习记录SpringBoot的相关知识的学习记录SpringBoot的相关知识的学习记录SpringBoot的相关知识的学习记录SpringBoot的相关知识的学习记录SpringBoot的相关知识的学习记录SpringBoot的相关知识的学习记录SpringBoot的相关知识的学习记录SpringBoot的相关知识的学习记录SpringBoot的相关知识的学习记录SpringBoot的相关知识的学习记录SpringBoot的相关知识的学习记录</p>
+]]></content>
+      <categories>
+        <category>SpringBoot</category>
+      </categories>
+      <tags>
+        <tag>SpringBoot</tag>
       </tags>
   </entry>
   <entry>
@@ -66,6 +165,39 @@
       </tags>
   </entry>
   <entry>
+    <title>且说西游第一回</title>
+    <url>/2021/11/23/%E4%B8%94%E8%AF%B4%E8%A5%BF%E6%B8%B8/</url>
+    <content><![CDATA[<p>突然蹦的一声，一个石头中崩裂出一个毛脸雷公（日后被菩提老祖取名悟空），他的到来给在座的每一位的童年带来了回味无穷的记忆…</p>
+<p>预知后事如何，且听下回娓娓道来…</p>
+<span id="more"></span>
+
+<p>欢迎您的观看，文章更行中，请耐心等待</p>
+]]></content>
+      <categories>
+        <category>文章</category>
+      </categories>
+      <tags>
+        <tag>西游</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>docker常用命令</title>
+    <url>/2021/12/11/docker%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
+    <content><![CDATA[<p>docker是一项新生代农民工必须掌握的技术，故在此记录关于docker常用的一些命令，以备日常查找时使用。</p>
+<span id="more"></span>
+
+<p><img src="/photos/docker.bmp" title="docker 架构图"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><code class="hljs plaintext">常用命令：<br>帮助3命令：<br>docker version<br>docker info<br>docker --help<br>镜像4命令：<br>docker images 列出本机上所有的镜像<br>docker search 镜像名字<br>docker pull 镜像名字<br>docker rmi 镜像名字ID<br>容器命令：<br>docker run image 启动容器<br>docker ps 列出当前所有正在运行的容器<br>exit-容器停止并退出 /ctrl+p+q-容器不停止退出<br>docker start/restart/stop/kill 容器id或名字 容器的启动/重启/停止/强制停止<br>docker rm 容器id 删除已停止容器<br>docker rm -f $(docker ps -qa) 一次性删除多个容器<br><br><br><br>attach    Attach to a running container                 # 当前 shell 下 attach 连接指定运行镜像<br>build     Build an image from a Dockerfile              # 通过 Dockerfile 定制镜像<br>commit    Create a new image from a container changes   # 提交当前容器为新的镜像<br>cp        Copy files/folders from the containers filesystem to the host path   #从容器中拷贝指定文件或者目录到宿主机中<br>create    Create a new container                        # 创建一个新的容器，同 run，但不启动容器<br>diff      Inspect changes on a container&#x27;s filesystem   # 查看 docker 容器变化<br>events    Get real time events from the server          # 从 docker 服务获取容器实时事件<br>exec      Run a command in an existing container        # 在已存在的容器上运行命令<br>export    Stream the contents of a container as a tar archive   # 导出容器的内容流作为一个 tar 归档文件[对应 import ]<br>history   Show the history of an image                  # 展示一个镜像形成历史<br>images    List images                                   # 列出系统当前镜像<br>import    Create a new filesystem image from the contents of a tarball # 从tar包中的内容创建一个新的文件系统映像[对应export]<br>info      Display system-wide information               # 显示系统相关信息<br>inspect   Return low-level information on a container   # 查看容器详细信息<br>kill      Kill a running container                      # kill 指定 docker 容器<br>load      Load an image from a tar archive              # 从一个 tar 包中加载一个镜像[对应 save]<br>login     Register or Login to the docker registry server    # 注册或者登陆一个 docker 源服务器<br>logout    Log out from a Docker registry server          # 从当前 Docker registry 退出<br>logs      Fetch the logs of a container                 # 输出当前容器日志信息<br>port      Lookup the public-facing port which is NAT-ed to PRIVATE_PORT    # 查看映射端口对应的容器内部源端口<br>pause     Pause all processes within a container        # 暂停容器<br>ps        List containers                               # 列出容器列表<br>pull      Pull an image or a repository from the docker registry server   # 从docker镜像源服务器拉取指定镜像或者库镜像<br>push      Push an image or a repository to the docker registry server    # 推送指定镜像或者库镜像至docker源服务器<br>restart   Restart a running container                   # 重启运行的容器<br>rm        Remove one or more containers                 # 移除一个或者多个容器<br>rmi       Remove one or more images             # 移除一个或多个镜像[无容器使用该镜像才可删除，否则需删除相关容器才可继续或 -f 强制删除]<br>run       Run a command in a new container              # 创建一个新的容器并运行一个命令<br>save      Save an image to a tar archive                # 保存一个镜像为一个 tar 包[对应 load]<br>search    Search for an image on the Docker Hub         # 在 docker hub 中搜索镜像<br>start     Start a stopped containers                    # 启动容器<br>stop      Stop a running containers                     # 停止容器<br>tag       Tag an image into a repository                # 给源中镜像打标签<br>top       Lookup the running processes of a container   # 查看容器中运行的进程信息<br>unpause   Unpause a paused container                    # 取消暂停容器<br>version   Show the docker version information           # 查看 docker 版本号<br>wait      Block until a container stops, then print its exit code   # 截取容器停止时的退出状态值<br></code></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>docker</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>数据结构之二叉树</title>
     <url>/2021/12/14/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B9%8B%E4%BA%8C%E5%8F%89%E6%A0%91/</url>
     <content><![CDATA[<p>数据结构是新生代农民工急需掌握的一门技术，了解并灵活运用便可给你带来财富，下面介绍的数据结构为–二叉树</p>
@@ -90,20 +222,48 @@
       </tags>
   </entry>
   <entry>
-    <title>docker常用命令</title>
-    <url>/2021/12/11/docker%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
-    <content><![CDATA[<p>docker是一项新生代农民工必须掌握的技术，故在此记录关于docker常用的一些命令，以备日常查找时使用</p>
-<span id="more"></span>
-
-<p><img src="/photos/docker.bmp" title="docker 架构图"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">常用命令：</span><br><span class="line">帮助3命令：</span><br><span class="line">docker version</span><br><span class="line">docker info</span><br><span class="line">docker --help</span><br><span class="line">镜像4命令：</span><br><span class="line">docker images 列出本机上所有的镜像</span><br><span class="line">docker search 镜像名字</span><br><span class="line">docker pull 镜像名字</span><br><span class="line">docker rmi 镜像名字ID</span><br><span class="line">容器命令：</span><br><span class="line">docker run image 启动容器</span><br><span class="line">docker ps 列出当前所有正在运行的容器</span><br><span class="line">exit-容器停止并退出 /ctrl+p+q-容器不停止退出</span><br><span class="line">docker start/restart/stop/kill 容器id或名字 容器的启动/重启/停止/强制停止</span><br><span class="line">docker rm 容器id 删除已停止容器</span><br><span class="line">docker rm -f $(docker ps -qa) 一次性删除多个容器</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">attach    Attach to a running container                 # 当前 shell 下 attach 连接指定运行镜像</span><br><span class="line">build     Build an image from a Dockerfile              # 通过 Dockerfile 定制镜像</span><br><span class="line">commit    Create a new image from a container changes   # 提交当前容器为新的镜像</span><br><span class="line">cp        Copy files/folders from the containers filesystem to the host path   #从容器中拷贝指定文件或者目录到宿主机中</span><br><span class="line">create    Create a new container                        # 创建一个新的容器，同 run，但不启动容器</span><br><span class="line">diff      Inspect changes on a container&#x27;s filesystem   # 查看 docker 容器变化</span><br><span class="line">events    Get real time events from the server          # 从 docker 服务获取容器实时事件</span><br><span class="line">exec      Run a command in an existing container        # 在已存在的容器上运行命令</span><br><span class="line">export    Stream the contents of a container as a tar archive   # 导出容器的内容流作为一个 tar 归档文件[对应 import ]</span><br><span class="line">history   Show the history of an image                  # 展示一个镜像形成历史</span><br><span class="line">images    List images                                   # 列出系统当前镜像</span><br><span class="line">import    Create a new filesystem image from the contents of a tarball # 从tar包中的内容创建一个新的文件系统映像[对应export]</span><br><span class="line">info      Display system-wide information               # 显示系统相关信息</span><br><span class="line">inspect   Return low-level information on a container   # 查看容器详细信息</span><br><span class="line">kill      Kill a running container                      # kill 指定 docker 容器</span><br><span class="line">load      Load an image from a tar archive              # 从一个 tar 包中加载一个镜像[对应 save]</span><br><span class="line">login     Register or Login to the docker registry server    # 注册或者登陆一个 docker 源服务器</span><br><span class="line">logout    Log out from a Docker registry server          # 从当前 Docker registry 退出</span><br><span class="line">logs      Fetch the logs of a container                 # 输出当前容器日志信息</span><br><span class="line">port      Lookup the public-facing port which is NAT-ed to PRIVATE_PORT    # 查看映射端口对应的容器内部源端口</span><br><span class="line">pause     Pause all processes within a container        # 暂停容器</span><br><span class="line">ps        List containers                               # 列出容器列表</span><br><span class="line">pull      Pull an image or a repository from the docker registry server   # 从docker镜像源服务器拉取指定镜像或者库镜像</span><br><span class="line">push      Push an image or a repository to the docker registry server    # 推送指定镜像或者库镜像至docker源服务器</span><br><span class="line">restart   Restart a running container                   # 重启运行的容器</span><br><span class="line">rm        Remove one or more containers                 # 移除一个或者多个容器</span><br><span class="line">rmi       Remove one or more images             # 移除一个或多个镜像[无容器使用该镜像才可删除，否则需删除相关容器才可继续或 -f 强制删除]</span><br><span class="line">run       Run a command in a new container              # 创建一个新的容器并运行一个命令</span><br><span class="line">save      Save an image to a tar archive                # 保存一个镜像为一个 tar 包[对应 load]</span><br><span class="line">search    Search for an image on the Docker Hub         # 在 docker hub 中搜索镜像</span><br><span class="line">start     Start a stopped containers                    # 启动容器</span><br><span class="line">stop      Stop a running containers                     # 停止容器</span><br><span class="line">tag       Tag an image into a repository                # 给源中镜像打标签</span><br><span class="line">top       Lookup the running processes of a container   # 查看容器中运行的进程信息</span><br><span class="line">unpause   Unpause a paused container                    # 取消暂停容器</span><br><span class="line">version   Show the docker version information           # 查看 docker 版本号</span><br><span class="line">wait      Block until a container stops, then print its exit code   # 截取容器停止时的退出状态值</span><br></pre></td></tr></table></figure>
-
+    <title>知乎的一个关于使用Hexo+Butterfly搭建个人博客的宝藏总结</title>
+    <url>/2024/07/25/%E7%9F%A5%E4%B9%8E%E7%9A%84%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E4%BD%BF%E7%94%A8Hexo-Butterfly%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%AE%9D%E8%97%8F%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<p>参考链接</p>
+<p><a href="https://www.zhihu.com/question/484633431/answer/3539808024">https://www.zhihu.com/question/484633431/answer/3539808024</a></p>
 ]]></content>
       <categories>
-        <category>技术</category>
+        <category>借鉴</category>
       </categories>
       <tags>
-        <tag>docker</tag>
+        <tag>BLog搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>随笔记录</title>
+    <url>/2024/07/28/%E9%9A%8F%E7%AC%94%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h3 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h3><p>12333333333333</p>
+<h3 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h3><h3 id="第三章"><a href="#第三章" class="headerlink" title="第三章"></a>第三章</h3><h3 id="第四章"><a href="#第四章" class="headerlink" title="第四章"></a>第四章</h3><h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2>]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>随笔记录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>随笔记录02</title>
+    <url>/2024/07/28/%E9%9A%8F%E7%AC%94%E8%AE%B0%E5%BD%9502/</url>
+    <content><![CDATA[<p>111111111111111111111111111</p>
+<p>222222222222222222222222222</p>
+<p>2222222222222222222222222222222</p>
+<p>222</p>
+<p>2</p>
+<p>2</p>
+<p>2222222222222222222</p>
+<p>2</p>
+<p>222222222222222222</p>
+]]></content>
+      <categories>
+        <category>随笔记录</category>
+      </categories>
+      <tags>
+        <tag>随笔记录</tag>
       </tags>
   </entry>
 </search>
